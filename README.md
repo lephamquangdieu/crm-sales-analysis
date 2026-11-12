@@ -38,6 +38,25 @@ Auf dieser Grundlage ist ein Dashboard mit mehreren Berichtsseiten entstanden:
 
 Durch Drilldown, Drillthrough und interaktive Filter kann man von den allgemeinen Ergebnissen zu einzelnen Teams oder Deals wechseln.
 
+### Dashboard-Ansichten
+
+**1. Executive Overview**
+
+![Executive Overview](dashboard/01_executive_overview.png)
+
+**2. Sales Team Analysis**
+
+![Sales Team Analysis](dashboard/02_sales_team_analysis.png)
+
+**3. Agent Detail**
+
+![Agent Detail](dashboard/03_agent_detail.png)
+
+**4. Pipeline Analysis**
+
+![Pipeline Analysis](dashboard/04_pipeline_analysis.png)
+
+
 ## Was ich herausgefunden habe
 
 ### Eine gute Abschlussquote erzählt nicht die ganze Geschichte
